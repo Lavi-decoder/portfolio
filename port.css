@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.i1{
+    height: 55px;
+    width: 65px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 18px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: cadetblue;
+}
+li{
+    display: flex;
+    padding-left: 15px;
+}
+ul{
+    padding: 3%;
+    font-size: 24px;
+}
+ul:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: overline;
+}
+.b1{
+    position: absolute;
+    right: 44%;
+    top: 5%;
+    height: 40px;
+    width: 90px;
+}
+.P1{
+    position: absolute;
+    right: 6%;
+    top: 4%;
+}
+.p2{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+.p2:hover{
+    color: coral;
+}
+h1{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    font-size: 90px;
+}
+h2{
+    position: absolute;
+    top:43%;
+    left: 10%;
+}
+.b2{
+    position: absolute;
+    top:57%;
+    left: 10%;
+    width: 100px;
+    height: 35px;
+}
+.b3{
+    position: absolute;
+    top:57%;
+    left: 21%;
+    width: 100px;
+    height: 35px;
+}
+.l1{
+    position: absolute;
+    right: 1%;
+    top: 5%;
+    border-radius: 200px;
+}
+section{
+    position: absolute;
+    top: 85%;
+    left: 41%;
+}
+a{
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+}
+button:hover{
+    color: black;
+    background-color: coral;
+}
+h3{
+    position: absolute;
+    top: 93%;
+    left: 42%;
+    font-size: 25px;
+}
+.p4{
+    position: absolute;
+    top: 97%;
+    left: 44%;
+}
+h3:hover{
+    text-decoration: line-through;
+    color: blue;
+}
+a:hover{
+  color: coral;
+}
